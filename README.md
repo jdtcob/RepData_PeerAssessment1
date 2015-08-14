@@ -1,4 +1,4 @@
-# Please examine 'PA1_template.md' for Reproducible Research peer assessment 1
+## Please examine 'PA1_template.md' for Reproducible Research peer assessment 1
 
 
 ## Introduction
